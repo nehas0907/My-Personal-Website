@@ -3,6 +3,8 @@
 
 A template using Tyndale from Styleshouts edited by Neha S.
 
+Website Link: https://nehaswebsite.netlify.app/
+
 SOURCES AND CREDITS:
 Fonts:
  - Inter Font (https://fonts.google.com/specimen/Inter)
